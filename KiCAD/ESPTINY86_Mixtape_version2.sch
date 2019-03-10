@@ -479,15 +479,15 @@ Wire Wire Line
 Wire Wire Line
 	4300 4950 3900 4950
 Wire Wire Line
-	3900 4950 3900 4000
+	3900 4950 3900 4250
 Wire Wire Line
-	3900 4000 2950 4000
+	3900 4250 2950 4250
 Wire Wire Line
 	4300 5050 3800 5050
 Wire Wire Line
-	3800 5050 3800 3900
+	3800 5050 3800 4350
 Wire Wire Line
-	3800 3900 2800 3900
+	3800 4350 2800 4350
 Wire Wire Line
 	4300 3850 4250 3850
 Wire Wire Line
@@ -503,7 +503,9 @@ Wire Wire Line
 Wire Wire Line
 	7150 3850 6950 3850
 Wire Wire Line
-	5700 4950 5700 5200
+	5700 4950 5700 5150
+Wire Wire Line
+	5700 5150 5700 5200
 Wire Wire Line
 	4300 4750 4300 5150
 Wire Wire Line
@@ -526,7 +528,9 @@ Wire Wire Line
 Wire Wire Line
 	6750 1250 6750 1400
 Wire Wire Line
-	8450 3850 8450 4450
+	8450 3850 8450 4050
+Wire Wire Line
+	8450 4050 8450 4450
 Wire Wire Line
 	5000 3800 5000 3700
 Wire Wire Line
@@ -540,15 +544,13 @@ Wire Wire Line
 Wire Wire Line
 	1550 4250 1700 4250
 Wire Wire Line
-	2950 4000 2950 4200
+	2950 4250 2850 4250
 Wire Wire Line
-	2950 4200 2850 4200
-Wire Wire Line
-	2850 4200 2850 4250
+	2850 4250 2850 4250
 Wire Wire Line
 	2850 4250 2700 4250
 Wire Wire Line
-	2800 3900 2800 4350
+	2800 4350 2800 4350
 Wire Wire Line
 	2800 4350 2700 4350
 Wire Wire Line
@@ -558,7 +560,9 @@ Wire Wire Line
 Wire Wire Line
 	2700 4750 2700 5000
 Wire Wire Line
-	3700 1950 3850 1950
+	3700 1950 3800 1950
+Wire Wire Line
+	3800 1950 3850 1950
 Wire Wire Line
 	2700 4550 3550 4550
 Wire Wire Line
@@ -572,7 +576,9 @@ Wire Wire Line
 Wire Wire Line
 	1050 4150 1700 4150
 Wire Wire Line
-	3550 4550 3550 5700
+	3550 4550 3550 5300
+Wire Wire Line
+	3550 5300 3550 5700
 $Comp
 L LED D1
 U 1 1 5B6097B9
@@ -1039,11 +1045,15 @@ Wire Wire Line
 Wire Wire Line
 	5700 2450 5550 2450
 Wire Wire Line
-	5150 2100 5150 2450
+	5150 2100 5150 2250
+Wire Wire Line
+	5150 2250 5150 2450
 Wire Wire Line
 	5150 2450 5250 2450
 Wire Wire Line
-	5000 2250 7100 2250
+	5000 2250 5150 2250
+Wire Wire Line
+	5150 2250 7100 2250
 Wire Wire Line
 	7100 2250 7100 2350
 Wire Wire Line
