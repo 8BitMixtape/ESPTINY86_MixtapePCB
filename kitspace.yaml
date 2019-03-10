@@ -1,0 +1,4 @@
+summary: ESPTINY86 – WiFi 32Bit Mixtape AVAILABLE NOW!!! Make sure you get this first edition! Synth engine for ESP8266 on the PCB of the ESPTINY86 is ready and constantly being further developed. The softare synth modules are largely based on MicrobeModular's Equation Composer ported to esp8266 with full featured Audio Design tool for Flow based programming interface by Budi Prakosa.
+site: https://github.com/esptiny86
+bom: bom.tsv
+color: green
