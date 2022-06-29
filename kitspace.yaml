@@ -2,3 +2,7 @@ summary: ESPTINY86 – WiFi 32Bit Mixtape AVAILABLE NOW!!! Make sure you get thi
 site: https://github.com/esptiny86
 bom: bom.tsv
 color: green
+gerbers: KiCAD/ESPTINY86_V02_gerberFinal/
+eda:
+  type: kicad
+  pcb: KiCAD/ESPTINY86_Mixtape_version2.kicad_pcb
